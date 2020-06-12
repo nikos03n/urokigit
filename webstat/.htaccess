@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/existence.in.ua/webstat"
+AuthUserFile /var/www/cdexist15353/data/etc/17446122.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

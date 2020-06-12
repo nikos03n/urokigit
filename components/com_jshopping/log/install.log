@@ -1,0 +1,26 @@
+2015-01-17 10:38:34 
+Start install: /home/u860525449/public_html/tmp/JoomShopping-update-4.8.0-4.8.1.zip
+2015-01-17 10:38:34 Copy file: /administrator/components/com_jshopping/jshopping.xml
+2015-01-17 10:38:34 Copy file: /administrator/components/com_jshopping/controllers/config.php
+2015-01-17 10:38:34 Copy file: /administrator/components/com_jshopping/controllers/products.php
+2015-01-17 10:38:34 Copy file: /administrator/components/com_jshopping/install/install.sql
+2015-01-17 10:38:34 Copy file: /administrator/components/com_jshopping/views/config/tmpl/storeinfo.php
+2015-01-17 10:38:34 Copy file: /components/com_jshopping/router.php
+2015-01-17 10:38:34 Copy file: /components/com_jshopping/lib/factory.php
+2015-01-17 10:38:34 Copy file: /components/com_jshopping/lib/functions.php
+2015-01-17 10:38:34 Copy file: /components/com_jshopping/lib/generete_pdf_order.php
+2015-01-17 10:38:34 Copy file: /components/com_jshopping/tables/vendor.php
+2015-01-17 10:38:34 Copy file: /components/com_jshopping/templates/default/user/register.php
+2015-01-17 10:38:37 
+Start install: /home/u860525449/public_html/tmp/JoomShopping-update-4.8.0-4.8.1.zip
+2015-01-17 10:38:38 Copy file: /administrator/components/com_jshopping/jshopping.xml
+2015-01-17 10:38:38 Copy file: /administrator/components/com_jshopping/controllers/config.php
+2015-01-17 10:38:38 Copy file: /administrator/components/com_jshopping/controllers/products.php
+2015-01-17 10:38:38 Copy file: /administrator/components/com_jshopping/install/install.sql
+2015-01-17 10:38:38 Copy file: /administrator/components/com_jshopping/views/config/tmpl/storeinfo.php
+2015-01-17 10:38:38 Copy file: /components/com_jshopping/router.php
+2015-01-17 10:38:38 Copy file: /components/com_jshopping/lib/factory.php
+2015-01-17 10:38:38 Copy file: /components/com_jshopping/lib/functions.php
+2015-01-17 10:38:38 Copy file: /components/com_jshopping/lib/generete_pdf_order.php
+2015-01-17 10:38:38 Copy file: /components/com_jshopping/tables/vendor.php
+2015-01-17 10:38:38 Copy file: /components/com_jshopping/templates/default/user/register.php

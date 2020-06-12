@@ -1,0 +1,109 @@
+/****************************************************
+         ¥ನ꠫쭮-⻯ठ堬孾 પ宭
+*****************************************************/
+ul.vmenu {
+    font: bold 12px Arial,Helvetica,sans-serif;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+	list-style:none;
+}
+ul.vmenu li {	
+    margin: 0 0 2px;
+}
+ul.vmenu li a {
+/background: url("../images/vmenu-li-bg.jpg") left bottom repeat-x;    
+    background-color: rgba(245, 245, 245, 0.38);
+	/border: 1px solid rgba(37, 34, 34, 0.1);    
+	  -moz-border-radius: 3px;
+    	-o-border-radius: 3px;
+   -webkit-border-radius: 3px;
+	   -ms-border-radius: 3px;
+	       border-radius: 3px;
+    color: #515151;
+    display: block;
+    padding: 5px 8px;
+    text-decoration: none;
+}
+ul.vmenu li > a:hover, ul.vmenu li > a:focus {background-color:transparent}
+ul.vmenu li.parent > a:after {
+	background:url("../images/arrow-dropdown.png") no-repeat;
+	display:block;
+	content:"";
+	float:right;
+	margin:8px 5px 0 0;
+	height:3px;
+	width:6px;
+}
+/* »ྐྵ襠ﳭ겻 */
+ul.vmenu li ul {
+    font-weight: normal;
+    margin: 10px 0 10px 15px;
+	list-style:none;
+}
+ul.vmenu li ul li {
+	background:none;
+	margin:0 0 5px
+}
+ul.vmenu li ul li a {
+    background: url("../images/vmenu-arrow.png") no-repeat scroll 5px center transparent !important;
+    border: medium none;
+    padding: 0 0 0 15px;
+}
+ul.vmenu li ul li a:hover {color:#29719E;text-decoration:underline}
+ul.vmenu li ul li.active a {color:#29719E;font-weight:bold}
+
+
+/****************************************************
+  ¥ನ꠫쭮-⻯ठ堬孾 પ宭 - ⠰蠭⠲
+*****************************************************/
+ul.vmenu2 {
+    font: bold 12px Arial,Helvetica,sans-serif;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+	list-style:none;
+}
+ul.vmenu2 li {	
+    margin: 0 0 2px;
+}
+ul.vmenu2 li a {
+background: url("../images/vmenu-li-bg.jpg") left bottom repeat-x;    
+    border: 1px solid #D5D5D5;    
+	  -moz-border-radius: 3px;
+    	-o-border-radius: 3px;
+   -webkit-border-radius: 3px;
+	   -ms-border-radius: 3px;
+	       border-radius: 3px;
+    color: #515151;
+    display: block;
+    padding: 5px 8px;
+    text-decoration: none;
+}
+ul.vmenu2 li > a:hover, ul.vmenu2 li > a:focus {background-color: transparent}
+ul.vmenu2 li.parent > a:after {
+	background:url("../images/arrow-dropdown.png") no-repeat;
+	display:block;
+	content:"";
+	float:right;
+	margin:8px 5px 0 0;
+	height:3px;
+	width:6px;
+}
+/* »ྐྵ襠ﳭ겻 */
+ul.vmenu2 li ul {
+    font-weight: normal;
+    margin: 10px 0 10px 15px;
+	list-style:none;
+}
+ul.vmenu2 li ul li {
+	background:none;
+	margin:0 0 5px
+}
+ul.vmenu2 li ul li a {
+    background: url("../images/vmenu-arrow.png") no-repeat scroll 5px center transparent !important;
+    border: medium none;
+    padding: 0 0 0 15px;
+}
+ul.vmenu2 li ul li a:hover {color:#29719E;text-decoration:underline}
+ul.vmenu2 li ul li.active a {color:#29719E;font-weight:bold}
